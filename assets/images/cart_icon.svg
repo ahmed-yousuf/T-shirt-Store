@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3636"/>
+      <stop offset="1" stop-color="#c20451"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-152 -522)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="19.5" cy="19.5" r="19.5" transform="translate(152 522)" fill="url(#linear-gradient)"/>
+    <g id="Icon_feather-shopping-bag" data-name="Icon feather-shopping-bag" transform="translate(160.5 532)">
+      <path id="Path_3" data-name="Path 3" d="M4.5,9V19.127a1.447,1.447,0,0,0,1.447,1.447H16.074a1.447,1.447,0,0,0,1.447-1.447V9Z" transform="translate(0 -3.624)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_4" data-name="Path 4" d="M4.5,9H17.521" transform="translate(0 -3.624)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_5" data-name="Path 5" d="M17.787,17.893a2.893,2.893,0,0,0-5.787,0" transform="translate(-3.883 -13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
